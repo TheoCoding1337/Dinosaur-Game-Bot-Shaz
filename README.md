@@ -22,7 +22,9 @@ And you should be left with a working chrome dinosaur game bot that has infinite
 
 Enjoy it! 
 
-## Donate:
+## Social medias:
 
-Discord: TheoCoding#0001
-Twitter: @PwnyyMadnessYT
+If there are any issues, contact me here:
+
+- Discord: TheoCoding#0001
+- Twitter: @PwnyyMadnessYT
