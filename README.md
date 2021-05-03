@@ -4,7 +4,6 @@ A bot for Chrome Dinosaur game, and easy to use.
 
 ## Requirements
 
-- Some zip extractor (obviously)
 - Google Chrome Browser (for fully functioning game)
 - OBS Studio (If you want to stream it)
 
